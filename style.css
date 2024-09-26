@@ -14,7 +14,7 @@ body {
 
 .container {
   width: 100%;
-  height: 100vh;
+  height: 80vh;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -102,26 +102,26 @@ body {
 }
 
 .user-chat {
-  width: 70%;
-  padding: 20px;
-  display: flex;
-  gap: 10px;
-  background-color: rgb(78, 162, 168);
-  border-radius: 30px 30px 0px 30px;
-  color: rgb(255, 255, 255);
-  font-size: 40px;
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(78, 162, 168);
+    border-radius: 30px 30px 0px 30px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
 }
 
 .ai-chat {
   width: 70%;
   height: auto;
-  padding: 20px;
+  padding: 10px;
   display: flex;
   gap: 10px;
   background-color: rgba(88, 215, 224, 0.226);
   border-radius: 30px 30px 30px 0px;
   color: white;
-  font-size: 40px;
+  font-size: 25px;
 }
 
 .img {
